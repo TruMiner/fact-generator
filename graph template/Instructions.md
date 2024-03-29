@@ -9,4 +9,4 @@
 
 4. The point.js file can remain empty in your repository. If you set up the Graph Sync shortcut correctly, it should automatically sync up to your local copy of the graph.
 
-5. If you have any other questions, please let DM @truminer on Discord.
+5. If you have any other questions, please DM @truminer on Discord or look at this repository https://github.com/TruMiner/riddlegraph.

@@ -1,0 +1,15 @@
+[
+    "factGenerator", {
+        "version" : "1.0",
+        "download" : "apple.com/shortcut/etc",
+        "notes" : "4oCiIFJlbGVhc2VkIHRoZSBGYWN0IG9mIHRoZSBEYXkgR2VuZXJhdG9yLgogIOKXpiBOb3RlOiBHcmFwaCBHZW5lcmF0b3IgYW5kIEdyYXBoIFN5bmMgYXJlIGN1cnJlbnRseSB1bmF2YWlsYWJsZSwgYnV0IHRoZXkgd2lsbCBiZSBtYWRlIGF2YWlsYWJsZSBzb29uLg=="
+    },
+    "graphGenerator", {
+        "version" : "0.0",
+        "download" : "apple.com/shortcut/etc"
+    },
+    "graphSync", {
+        "version" : "0.0",
+        "download" : "apple.com/shortcut/etc"
+    }
+]

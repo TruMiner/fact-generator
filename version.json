@@ -1,7 +1,9 @@
 [
-    {"notes" : "4oCiIFJlbGVhc2VkIHRoZSBGYWN0IG9mIHRoZSBEYXkgR2VuZXJhdG9yLgogIOKXpiBOb3RlOiBHcmFwaCBHZW5lcmF0b3IgYW5kIEdyYXBoIFN5bmMgYXJlIGN1cnJlbnRseSB1bmF2YWlsYWJsZSwgYnV0IHRoZXkgd2lsbCBiZSBtYWRlIGF2YWlsYWJsZSBzb29uLg=="},
-    {"version": "1.0"},
-    {"generatorLink": "https://www.apple.com/etc1"},
-    {"graphLink": "https://www.apple.com/etc2"},
-    {"graphLink": "https://www.apple.com/etc3"}
+{
+    "notes" : "4oCiIFJlbGVhc2VkIHRoZSBGYWN0IG9mIHRoZSBEYXkgR2VuZXJhdG9yLgogIOKXpiBOb3RlOiBHcmFwaCBHZW5lcmF0b3IgYW5kIEdyYXBoIFN5bmMgYXJlIGN1cnJlbnRseSB1bmF2YWlsYWJsZSwgYnV0IHRoZXkgd2lsbCBiZSBtYWRlIGF2YWlsYWJsZSBzb29uLg==",
+    "version": "1.0",
+    "generatorLink": "https://www.apple.com/etc1",
+    "graphLink": "https://www.apple.com/etc2",
+    "SyncLink": "https://www.apple.com/etc3"
+}
 ]
